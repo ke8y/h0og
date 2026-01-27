@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Youssef `AKA` Hog
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=h0og&label=Profile%20Views&color=0e75b6&style=flat-square" />
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=h0og&label=Profile%20views&color=0e75b6&style=flat" alt="h0og" /> 
 </p>
 
 ### 👨‍💻 About Me
@@ -35,11 +35,8 @@
 ### 🔹 Discord Status
 <p align="center">
   <a href="https://discord.com/users/725466717718970438">
-    <img src="https://img.shields.io/badge/Discord-h0og-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" />
-  </a>
-  <a href="https://discord.com/users/725466717718970438">
-    <img src="https://img.shields.io/badge/ID-725466717718970438-white?style=for-the-badge&logo=discord&logoColor=7289DA" height="35" />
-  </a>
+    <img align="center" src="https://lanyard.cnrad.dev/api/725466717718970438"/>
+  </a> 
 </p>
 
 ---

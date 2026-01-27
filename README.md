@@ -35,7 +35,7 @@
 ### 🔹 Discord Status
 <p align="center">
   <a href="https://discord.com/users/725466717718970438">
-    <img width="100%" src="https://lanyard.cnrad.dev/api/725466717718970438?bg=1a1c1e&borderRadius=10px" alt="Discord Status" />
+    <img src="https://discord.com/api/guilds/1234567890/widget.png?style=banner2" alt="Discord" style="display:none;"> <img src="https://img.shields.io/badge/Discord-h0og-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" />
   </a>
 </p>
 

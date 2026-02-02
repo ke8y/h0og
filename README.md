@@ -18,9 +18,13 @@
 
 ---
 
-### 📂 Featured Work
-* **Discord Ecosystems:** Developing advanced bots and automation systems.
-* **General Development:** Creating scalable applications and clean code solutions.
+### 📊 Activity & Tech Stack
+
+<p align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=h0og&theme=tokyonight&hide_border=true" alt="h0og's GitHub Streak" />
+
+  <img width="46%" src="https://skillicons.dev/icons?i=py,js,ts,nodejs,discord,react,docker,mongodb&perline=4&theme=dark" alt="h0og's Tech Stack" />
+</p>
 
 ---
 
